@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181606058906",
+    "project_id": "testvv-51a14",
+    "storage_bucket": "testvv-51a14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181606058906:android:322861f02cf54797cb8823",
+        "android_client_info": {
+          "package_name": "com.example.engine_cylinder_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH31o7s2dIYJMdjh3lfP-XnF_EMcLeOAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
